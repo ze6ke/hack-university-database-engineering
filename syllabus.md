@@ -1,12 +1,16 @@
 
 ## Syllabus
 
-1. [Install and Big O](Class%20Notes/Session%201%20-%20Big%20O.md)
-2. [Why use a DB](Class%20Notes/Session%202%20-%20Database%20Fundamentals.html)
-3. [Select Queries](Class%20Notes/Session%203%20-%20Select%20Queries.md)
+### Day 1
+[Install and Big O](Class%20Notes/Session%201%20-%20Big%20O.md)
+### Day 2
+[Why use a DB](Class%20Notes/Session%202%20-%20Database%20Fundamentals.html)
+### Day 3
+[Select Queries](Class%20Notes/Session%203%20-%20Select%20Queries.md)
   - [Answers](Answers/Session%203%20Answers.txt)
   - [Final Config Files](Config/Session%203)
-4. [Other Queries](Class%20Notes/Session%204%20-%20Other%20Queries.md)
+### Day 4
+[Other Queries](Class%20Notes/Session%204%20-%20Other%20Queries.md)
   - [Answers](Answers/Session%204%20Answers.txt)
 
 ### Day 5 10/24
@@ -32,7 +36,7 @@ Start Cooking Turkey
 ### Day 13 11/28
 [Regular Expressions, Under the Hood/Query Optimization](Class%20Notes/Session%2013%20-%20Under%20the%20Hood.md) - [Answers](Answers/Session%2013%20Answers.txt)
 ### Day 14 11/30
-Text Queries and Map Reduce - [Map/Reduce Example](Resources/Python%20Map%20Reduce%20Example.ipynb) - [Answers](Answers/Python Map%20Reduce%20Example%20with%20answers.ipynb)
+Text Queries and Map Reduce - [Map/Reduce Example](Resources/Python%20Map%20Reduce%20Example.ipynb) - [Answers](Answers/Python%20Map%20Reduce%20Example%20with%20answers.ipynb)
 ### Day 15 12/5
 [Student Projects](Class%20Notes/Session%2015%20-%20Project.md)
 ### Day 16 12/7
