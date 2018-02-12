@@ -4,7 +4,7 @@
 ### Day 1
 [Install and Big O](Class%20Notes/Session%201%20-%20Big%20O.md)
 ### Day 2
-[Why use a DB](Class%20Notes/Session%202%20-%20Database%20Fundamentals.html)
+[Why use a DB](https://ze6ke.github.io/hack-university-database-engineering/Class%20Notes/Session%202%20-%20Database%20Fundamentals.html)
 ### Day 3
 [Select Queries](Class%20Notes/Session%203%20-%20Select%20Queries.md) - [Answers](Answers/Session%203%20Answers.txt) - [Final Config Files](Config/Session%203)
 ### Day 4
