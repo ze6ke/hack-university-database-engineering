@@ -41,7 +41,7 @@ vagrant init ubuntu/trusty64
 vagrant up
 ```
 
-For this class, you won't be creating a new vagrant box and should download the two files [here](Config/Session 1) into a new folder and then execute these commands in that folder.
+For this class, you won't be creating a new vagrant box and should download the two files [here](Config/Session%201) into a new folder and then execute these commands in that folder.
 
 ```
 vagrant up
