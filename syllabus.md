@@ -6,12 +6,9 @@
 ### Day 2
 [Why use a DB](Class%20Notes/Session%202%20-%20Database%20Fundamentals.html)
 ### Day 3
-[Select Queries](Class%20Notes/Session%203%20-%20Select%20Queries.md)
-  - [Answers](Answers/Session%203%20Answers.txt)
-  - [Final Config Files](Config/Session%203)
+[Select Queries](Class%20Notes/Session%203%20-%20Select%20Queries.md) - [Answers](Answers/Session%203%20Answers.txt) - [Final Config Files](Config/Session%203)
 ### Day 4
-[Other Queries](Class%20Notes/Session%204%20-%20Other%20Queries.md)
-  - [Answers](Answers/Session%204%20Answers.txt)
+[Other Queries](Class%20Notes/Session%204%20-%20Other%20Queries.md) - [Answers](Answers/Session%204%20Answers.txt)
 
 ### Day 5 10/24
 [Normalization](Class%20Notes/Session%205%20-%20Normalization.md) - [Answers](Answers/Session%205%20Answers.txt)
@@ -24,7 +21,7 @@ Review (No Notes)
 ### Day 9 11/7
 [Using Python from Postgres](Class%20Notes/Session%209%20-%20Python.md) - [Ending Config Files](Config/Session%209)
 ### Day 10 11/9
-[Spatial Types and Redundancy](Class%20Notes/Session%2010%20-%20GIS.md) - [Ending Config Files](Config/Session%2010) - [Answers](Answers/Session 10 Answers.txt)
+[Spatial Types and Redundancy](Class%20Notes/Session%2010%20-%20GIS.md) - [Ending Config Files](Config/Session%2010) - [Answers](Answers/Session%2010%20Answers.txt)
 ### Day 11 11/14
 [Security](Class%20Notes/Session%2011%20-%20Security.md) - [Ending Config Files](Config/Session%2011) - [Answers](Answers/Session%2011%20Answers.txt)
 ### Day 12 11/16
